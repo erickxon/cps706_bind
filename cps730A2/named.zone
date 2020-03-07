@@ -1,0 +1,13 @@
+$TTL	86400
+@		IN SOA	141.117.57.8 root (
+					42		; serial
+					3H		; refresh
+					15M		; retry
+					1W		; expiry
+					1D )		; minimum
+	        IN NS		141.117.57.8
+saturn-int	IN A		141.117.57.8
+www.carleton.ca IN A            134.117.6.162
+www.ucla.edu    IN A            111.111.11.11
+www.ryerson.ca  IN A		141.117.101.43	
+
